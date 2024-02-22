@@ -1,0 +1,1 @@
+moveEgeright(eggImage,0)
